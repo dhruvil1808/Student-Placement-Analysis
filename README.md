@@ -1,1 +1,2 @@
 # Student-Placement-Analysis
+For this project we have such a dataset that contains details about students. The data has attributes like 10th ,12th standard marks, current CGPA, Internship status, Project Experience etc. We will be using this dataset and analyze weather the student will get placed during the campus placements or not. We will also find out what is the major factor due to which students are not getting selected by companies.
